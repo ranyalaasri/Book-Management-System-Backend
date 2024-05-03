@@ -1,0 +1,30 @@
+{
+  "name": "aut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "json-server": "^1.0.0-alpha.23",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.3",
+    "uuidv4": "^6.2.13",
+    "xss": "^1.0.14",
+    "express-validator": "^7.0.1",
+    "dotenv": "^16.4.4"
+    
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

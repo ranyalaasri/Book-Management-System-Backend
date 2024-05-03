@@ -1,0 +1,138 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "To leave ",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960
+    },
+    {
+      "id": "4",
+      "title": "To stay",
+      "author": "Mateo Lee",
+      "genre": "Drama",
+      "year": 1960
+    },
+    {
+      "id": "6b28",
+      "title": "just nothing",
+      "author": "him",
+      "genre": "Action"
+    },
+    {
+      "id": "a6fd",
+      "title": "the power of",
+      "author": "romeo leo",
+      "genre": "Motivation"
+    },
+    {
+      "id": "b9fb",
+      "title": "just do it ",
+      "author": "Leo meo ",
+      "genre": "Action",
+      "authorId": "f7dd1eab-6745-43c7-9011-5af900e29efb"
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "name": "To Kill a Mockingbird",
+      "email": "Harper Lee",
+      "password": "Fiction"
+    },
+    {
+      "id": "6d21",
+      "username": "ranya ",
+      "email": "laasriranya10@gmail.com",
+      "password": "laasriranya10@gmail.com"
+    },
+    {
+      "id": "624a",
+      "username": "ranya ",
+      "email": "laasriranya10@gmail.com",
+      "password": "laasriranya10@gmail.com"
+    },
+    {
+      "id": "efec",
+      "username": "ranya ",
+      "email": "laasriranya10@gmail.com",
+      "password": "laasriranya10@gmail.com"
+    },
+    {
+      "id": "f6d9",
+      "username": "ranya ",
+      "email": "laasriranya10@gmail.com",
+      "password": "laasriranya10@gmail.com"
+    },
+    {
+      "id": "5e68",
+      "username": "ranya",
+      "email": "laasriranya10@gmail.com",
+      "password": "laasriranya10@gmail.com"
+    },
+    {
+      "id": "8ddd",
+      "username": "ana",
+      "email": "ana@gmail.com",
+      "password": "$2b$10$RGKK/IlUboQXhtgaJPhZMOrkkRw6enk2LC5zSeCqScdueR3C77QGS",
+      "authorId": "c8971233-c6fb-40cf-a35f-922a33fd28db"
+    },
+    {
+      "id": "307d",
+      "username": "hiiiiiiiiiiiiiiiiii",
+      "email": "hii@gmail.com",
+      "password": "$2b$10$MlGeOeQFAp0k7M0pNN9Tj.E69JepAAbPImb5GAoPWiLeNDTcn/J7.",
+      "authorId": "7e955732-eb71-47f2-a716-265445475277"
+    },
+    {
+      "id": "2f57",
+      "username": "ranya",
+      "email": "laasriranya10@gmail.com",
+      "password": "$2b$10$etAGdTj/fllTUxWG/haWvO9iVSvDC5YPVe4aS3mYo9DC35jzIC6Em",
+      "authorId": "650ab730-da7a-4c36-87a9-8f8cb9846557"
+    },
+    {
+      "id": "d7b1",
+      "username": "ranya",
+      "email": "laasriranya10@gmail.com",
+      "password": "$2b$10$g91hZbF4X/04.2.N3flqQ.O2QcLjrqMgWp8ZD005Jya3JuvkHWucy",
+      "authorId": "a4bbfcb8-e39c-4d91-be28-bd266128028e"
+    },
+    {
+      "id": "600b",
+      "username": "ranya",
+      "email": "laasriranya10@gmail.com",
+      "password": "$2b$10$DuUBYfK1p4CrTTVr2g3lqeWt4TXnBgCy0k67L6Axde0vKhkolfcAe",
+      "authorId": "6f0a8042-500f-406c-8888-239b9b896d84"
+    },
+    {
+      "id": "b407",
+      "username": "ranya_laasri",
+      "email": "laasriranya1@gmail.com",
+      "password": "$2b$10$VyxtHfxW2/4QeTXoVhFrK.g68RJDlUIZWN0VBZBNK00cNrfidi95y",
+      "authorId": "6e27a134-0f5e-4b87-8f72-754cbcb5224b"
+    },
+    {
+      "id": "9afc",
+      "username": "ranya ",
+      "email": "rrrr@gmail.com",
+      "password": "$2b$10$bdI6LziIqLTVoCXX64mW6.S92JzZEIu3PuWMGz6O1UHVuR6aTrOyi",
+      "authorId": "2786e958-0659-412e-8130-5f3dd8cb6eb3"
+    },
+    {
+      "id": "62a1",
+      "username": "ranya ",
+      "email": "laasriranya100@gmail.com",
+      "password": "$2b$10$nazXU4pvNB5DNqflJOs6huusHpTbEq9RUW0xOnowQQaT1hT8irata",
+      "authorId": "f7dd1eab-6745-43c7-9011-5af900e29efb"
+    },
+    {
+      "id": "eb54",
+      "username": "ranya ",
+      "email": "laasriranya1000@gmail.com",
+      "password": "$2b$10$cMRlb.0DZNiRciDPKLQMsudF2G6c28IYfS5HID0uec177woVkLwsi",
+      "authorId": "c0b61126-a289-426a-9b16-a265518a2bc5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/user/profile"> Go to profile</a>
+    <h1> All Books </h1>
+    <ul>
+        <% for (let i = 0; i < books.length; i++) { %>
+            <h2><%= books[i].title %></h2>
+            <h3><%= books[i].id %></h3>
+            <p><%= books[i].genre %></p>
+            <li><%= books[i].author %></li>
+            <a href="/view/<%= books[i].id %>">view</a>
+            <a href="/update/<%= books[i].id %>">update</a>
+            <a href="/delete/<%= books[i].id %>">delete</a>
+            
+            <hr>
+            <% } %>
+</body>
+</html>
